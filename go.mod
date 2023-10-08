@@ -1,4 +1,4 @@
-module github.com/srmordred/pkill
+module github.com/SrMordred/pkill
 
 go 1.21.0
 
